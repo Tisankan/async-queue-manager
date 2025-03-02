@@ -1,5 +1,5 @@
 {
-  "name": "async-queue-manager",
+  "name": "async-queue-manager-tsk",
   "version": "1.0.0",
   "description": "A Node.js package for managing asynchronous task queues with DAG-based dependencies, adaptive concurrency, and monitoring",
   "main": "index.js",
