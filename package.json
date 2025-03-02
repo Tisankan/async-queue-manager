@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Node.js package for managing asynchronous task queues with DAG-based dependencies, adaptive concurrency, and monitoring",
   "main": "index.js",
-  "scripts": {
+    "scripts": {
     "test": "jest",
     "start": "node examples/basic-usage.js",
     "start:monitor": "node examples/monitor-server.js"
@@ -16,7 +16,7 @@
     "concurrency",
     "monitoring"
   ],
-  "author": "",
+  "author": "Tisankan",
   "license": "MIT",
   "dependencies": {
     "amqplib": "^0.10.3",
