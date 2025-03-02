@@ -8,6 +8,7 @@
     "start": "node examples/basic-usage.js",
     "start:monitor": "node examples/monitor-server.js"
   },
+
   "keywords": [
     "async",
     "queue",
